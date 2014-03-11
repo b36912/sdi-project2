@@ -19,3 +19,9 @@ var needSleep          = true;
 var numberHotels       = 6;
 var hotelCity          = "Atlanta";
 var hungry;
+
+
+//Prompt
+
+prompt("Feeling sleepy yet?")
+  console.log(prompt);

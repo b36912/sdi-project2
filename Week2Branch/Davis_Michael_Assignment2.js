@@ -5,6 +5,8 @@
 //March 13, 2014
 
 /*
+This week the story starts when the Davis Family is getting sleepy. 
+As they drive through Georgia to get to Houston, Texas they want to find a hotel.
 
 
 */
@@ -25,3 +27,21 @@ var hungry;
 
 prompt("Feeling sleepy yet?")
   console.log(prompt);
+
+//Procedure
+
+var goHotel = function(hotelName) {
+    if (prompt = yes) {
+      
+      console.log("");
+    
+    } else {
+     
+      console.log("");
+      
+      }
+  };
+  
+  console.log();
+  
+  goHotel();

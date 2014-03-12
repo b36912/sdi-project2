@@ -29,6 +29,7 @@ prompt("Feeling sleepy yet?")
   console.log(prompt);
 
 //Procedure
+// if/else statements
 
 var goHotel = function(hotelName) {
     if (prompt = yes) {

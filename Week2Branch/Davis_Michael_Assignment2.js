@@ -18,31 +18,32 @@ var driveStart         = "Philadelphia, PA";
 var driveDestination   = "to \"Houston, Tx\"";
 var familyMembers      = 4;
 var needSleep          = true;
-var numberHotels       = 6;
+var maxRestaurants     = 7;
 var hotelCity          = "Atlanta";
-var hungry;
+var lunchMenu;
 
 
 //Prompt
 
-prompt("Feeling sleepy yet?")
+prompt("What do you want for lunch?")
   console.log(prompt);
 
 //Procedure
-// if/else statements
-
-var goHotel = function(hotelName) {
-    if (prompt = yes) {
+// the following states that my function is going to be the food the want.
+var lunchMenu = function("name") {
+    if (lunchMenu >= 4 && lunchMenu > 7) { /* if the number of places to choose are less than or equal 4
+                          and if lunchMenu is less than 7, there will be 4 to 7 places to choose from.*/ 
       
-      console.log("");
+      console.log("The " + davisFamily + "has between " + 4 && 7 + "restaurants to choose from." );
     
     } else {
      
-      console.log("");
+      console.log("Not every one want to eat at the moment.");
       
       }
   };
   
-  console.log();
+  console.log(lunchMenu);
   
-  goHotel();
+  return(lunchMenu);
+  

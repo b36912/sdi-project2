@@ -49,5 +49,8 @@ var lunchMenu = function("name") {
   
   //Confirm to the user who made decisions.
   confirm("Everyone knows what they want to eat except for Mom.");
+      console.log(confirm + " now we have to wait on Mom.");
+  
+  //Boolean Function
   
   

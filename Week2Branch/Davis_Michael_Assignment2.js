@@ -47,3 +47,7 @@ var lunchMenu = function("name") {
   
   return(lunchMenu);
   
+  //Confirm to the user who made decisions.
+  confirm("Everyone knows what they want to eat except for Mom.");
+  
+  

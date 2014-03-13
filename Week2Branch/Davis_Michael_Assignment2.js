@@ -48,9 +48,27 @@ var lunchMenu = function("name") {
   return(lunchMenu);
   
   //Confirm to the user who made decisions.
-  confirm("Everyone knows what they want to eat except for Mom.");
+  var lunchMenu = confirm("Everyone knows what they want to eat except for Mom.");
       console.log(confirm + " now we have to wait on Mom.");
   
   //Boolean Function
+  //Local Variables
   
+  var parent    = "mom";
+  var momFood   = false;
+  
+ var eat =  while(parent >= momFood) {
+    
+    if() {
+      
+      console.log("");
+      
+      } else {
+        
+      console.log("");
+        
+      }
+  };
+  
+  return(eat);
   

@@ -54,18 +54,20 @@ var lunchMenu = function("name") {
   //Boolean Function
   //Local Variables
   
-  var parent    = "mom";
+  var parent    = "Mom";
   var momFood   = false;
+  var McD       = "burger and fries";
+  var bKing     = "chicken sandwich and french fries";
   
  var eat =  while(parent >= momFood) {
     
-    if() {
+    if(McD >= bKing) {
       
-      console.log("");
+      console.log(parent + "would like a " + McD + "." );
       
       } else {
         
-      console.log("");
+      console.log(parent + "would like a " + bKing + ".");
         
       }
   };

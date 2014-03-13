@@ -58,6 +58,7 @@ var lunchMenu = function("name") {
   var momFood   = false;
   var McD       = "burger and fries";
   var bKing     = "chicken sandwich and french fries";
+ 
   
  var eat =  while(parent >= momFood) {
     
@@ -74,3 +75,17 @@ var lunchMenu = function("name") {
   
   return(eat);
   
+  //Number Function
+  
+  var milesHouston     = 30;
+  var milesDriven      = 1530;
+  var days             = 2;
+  
+  var mealOrders;
+  for(mealOrders = 4; mealOrders <= 4; mealOrders++) {
+    
+      console.log("");
+    
+  } 
+  
+  return(mealOrders);

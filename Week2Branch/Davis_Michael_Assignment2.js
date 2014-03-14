@@ -77,14 +77,10 @@ var lunchMenu = function("name") {
   
   //Number Function
   
-  var milesHouston     = 30;
-  var milesDriven      = 1530;
-  var days             = 2;
-  
   var mealOrders;
   for(mealOrders = 4; mealOrders <= 4; mealOrders++) {
     
-      console.log("");
+      console.log("The order " + mealOrders + " was made.");
     
   } 
   

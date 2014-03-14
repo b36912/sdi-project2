@@ -74,7 +74,7 @@ var she = function(decide) {
        if (McD >= bKing)
     {
       
-    console.log(parent + "would like a " + McD + ".");
+    console.log(parent + "would like a " + McD + "."); // true
       
     } else
     {
@@ -89,6 +89,7 @@ var she = function(decide) {
 //Number Function
   
   var mealOrders = 0;
+  
   function eat(amount) {
   
   for (mealOrders=0;mealOrders<4;mealOrders++) {
@@ -96,10 +97,12 @@ var she = function(decide) {
     
       console.log("The order " + mealOrders + " was made.");
     
-    return (mealOrders);
+        return (1);
+        return (2);
+        return (3);
+        return (4);
   }
-  } 
-  
+  };
   
   
 //String Function

@@ -89,3 +89,16 @@ var lunchMenu = function("name") {
   } 
   
   return(mealOrders);
+  
+  //String Function
+  
+  var trip       = "Okay now that we've all ate ";
+  var timeToGo   = "it's time to get back on the road.";
+  var letsGo     = trip + timeToGo;
+  function = letsGo( letsGo ) {
+    
+        return(letsGo);
+    
+  };
+  
+  

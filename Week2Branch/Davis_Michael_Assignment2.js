@@ -25,15 +25,20 @@ var lunchMenu          = "food";
 
 //Prompt
 
-var hungry = prompt("What do you want for lunch?");
-  
+var hungry = prompt("What do you want for lunch Mike?");
+    console.log(hungry);
+
+var hungry = prompt("What do you want for lunch Dad?");
+    console.log(hungry);
+
+var hungry = prompt("What do you want for lunch son?");
     console.log(hungry);
 
 //Procedure
 // the following states that my function is going to be the food the want.
 /* if the number of places to choose are less than or equal and if lunchMenu is less than 7, there will be 4 to 7 places to choose from.*/ 
-var lunchMenu = function () {
-    if (lunchMenu >= 4 && lunchMenu > 7)
+var lunch = function (name, eat, lunch) {
+    if (lunch >= 4 && lunch > 7)
     { 
       
     console.log("The " + davisFamily + "has between " + 4 && 7 + "restaurants to choose from.");
@@ -45,10 +50,13 @@ var lunchMenu = function () {
       
     }
   };
-
+  lunch("Mike wants to " + eat + " some " + lunch + ".");
+  lunch("Dad wants to " + eat + " some " + lunch + ".");
+  lunch("Son wants to " + eat + " some " + lunch + ".");
   
 //Confirm to the user who made decisions.
   confirm("Everyone knows what they want to eat except for Mom.");
+    
     console.log("Now we have to wait on Mom.");
   
 //Boolean Function
@@ -59,10 +67,11 @@ var lunchMenu = function () {
   var McD       = "burger and fries";
   var bKing     = "chicken sandwich and french fries";
  
-  
- while(10 >= 20) {
+var she = function(decide) {  
+ 
+    while(10 >= 20) {
     
-    if (McD >= bKing)
+       if (McD >= bKing)
     {
       
     console.log(parent + "would like a " + McD + ".");
@@ -73,13 +82,14 @@ var lunchMenu = function () {
     console.log(parent + "would like a " + bKing + ".");
         
     }
+    }
 };
-
+ 
   
 //Number Function
   
   var mealOrders = 0;
-  function eat() {
+  function eat(amount) {
   
   for (mealOrders=0;mealOrders<4;mealOrders++) {
     
@@ -88,7 +98,7 @@ var lunchMenu = function () {
     
     return (mealOrders);
   }
-  }; 
+  } 
   
   
   
@@ -96,12 +106,11 @@ var lunchMenu = function () {
   
   var trip       = "Okay now that we've all ate ";
   var timeToGo   = "it's time to get back on the road.";
-  var letsGo     = trip + timeToGo;
+  
 
-  function letsGo(letsGo)
+  var letsGo = function(trip,timeToGo)
   {
     
-        return(letsGo);
+    console.log(letsGo);    
     
   };
-  

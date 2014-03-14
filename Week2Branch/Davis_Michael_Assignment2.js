@@ -1,4 +1,4 @@
-//alert("JavaScript works!");
+alert("JavaScript works!");
 
 //Michael Davis
 //SDI 1403 SECTION 01
@@ -17,42 +17,42 @@ var davisFamily        = "Davis Family";
 var driveStart         = "Philadelphia, PA";
 var driveDestination   = "to \"Houston, Tx\"";
 var familyMembers      = 4;
-var needSleep          = true;
+var needFood           = true;
 var maxRestaurants     = 7;
 var hotelCity          = "Atlanta";
-var lunchMenu;
+var lunchMenu          = "food";
 
 
 //Prompt
 
-prompt("What do you want for lunch?")
-  console.log(prompt);
+var hungry = prompt("What do you want for lunch?");
+  
+    console.log(hungry);
 
 //Procedure
 // the following states that my function is going to be the food the want.
-var lunchMenu = function("name") {
-    if (lunchMenu >= 4 && lunchMenu > 7) { /* if the number of places to choose are less than or equal 4
-                          and if lunchMenu is less than 7, there will be 4 to 7 places to choose from.*/ 
+/* if the number of places to choose are less than or equal and if lunchMenu is less than 7, there will be 4 to 7 places to choose from.*/ 
+var lunchMenu = function () {
+    if (lunchMenu >= 4 && lunchMenu > 7)
+    { 
       
-      console.log("The " + davisFamily + "has between " + 4 && 7 + "restaurants to choose from." );
+    console.log("The " + davisFamily + "has between " + 4 && 7 + "restaurants to choose from.");
     
-    } else {
+    } else
+    {
      
-      console.log("Not every one want to eat at the moment.");
+    console.log("Not every one want to eat at the moment.");
       
-      }
+    }
   };
+
   
-  console.log(lunchMenu);
+//Confirm to the user who made decisions.
+  confirm("Everyone knows what they want to eat except for Mom.");
+    console.log("Now we have to wait on Mom.");
   
-  return(lunchMenu);
-  
-  //Confirm to the user who made decisions.
-  var lunchMenu = confirm("Everyone knows what they want to eat except for Mom.");
-      console.log(confirm + " now we have to wait on Mom.");
-  
-  //Boolean Function
-  //Local Variables
+//Boolean Function
+//Local Variables
   
   var parent    = "Mom";
   var momFood   = false;
@@ -60,41 +60,48 @@ var lunchMenu = function("name") {
   var bKing     = "chicken sandwich and french fries";
  
   
- var eat =  while(parent >= momFood) {
+ while(10 >= 20) {
     
-    if(McD >= bKing) {
+    if (McD >= bKing)
+    {
       
-      console.log(parent + "would like a " + McD + "." );
+    console.log(parent + "would like a " + McD + ".");
       
-      } else {
+    } else
+    {
         
-      console.log(parent + "would like a " + bKing + ".");
+    console.log(parent + "would like a " + bKing + ".");
         
-      }
-  };
+    }
+};
+
   
-  return(eat);
+//Number Function
   
-  //Number Function
+  var mealOrders = 0;
+  function eat() {
   
-  var mealOrders;
-  for(mealOrders = 4; mealOrders <= 4; mealOrders++) {
+  for (mealOrders=0;mealOrders<4;mealOrders++) {
+    
     
       console.log("The order " + mealOrders + " was made.");
     
-  } 
+    return (mealOrders);
+  }
+  }; 
   
-  return(mealOrders);
   
-  //String Function
+  
+//String Function
   
   var trip       = "Okay now that we've all ate ";
   var timeToGo   = "it's time to get back on the road.";
   var letsGo     = trip + timeToGo;
-  function = letsGo( letsGo ) {
+
+  function letsGo(letsGo)
+  {
     
         return(letsGo);
     
   };
-  
   

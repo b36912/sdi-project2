@@ -114,6 +114,6 @@ var she = function(decide) {
   var letsGo = function(trip,timeToGo)
   {
     
-    console.log(letsGo);    
+    console.log(trip + timeToGo);    
     
   };

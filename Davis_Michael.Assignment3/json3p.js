@@ -1,5 +1,5 @@
 // json
-var tripData = 
+var tripData =
 {
 
     "familyMembers":
@@ -38,18 +38,19 @@ var tripData =
                 "memberWallet"  :   0
             }
         
-        ],
-    "hotels":
-        [
+        ]
+};
+
+var hotelData =
+{
+
             {
                 "hotel"         :  "Comfort Inn",
                 "hotelCost"     :   128
-                
             },
             {
                 "hotel"         :  "Hyatt",
                 "hotelCost"     :   135
-            
             },
             {
                 "hotel"         :  "Hilton Garden Inn",
@@ -62,9 +63,9 @@ var tripData =
             {
                 "hotel"         :  "Embassy Suites",
                 "hotelCost"     :   140
-                
             }
             
         ]
     
+
 };

@@ -39,7 +39,7 @@ var tripData =
             }
         
         ],
-        "hotels":
+    "hotels":
         [
             {
                 "hotel"         :  "Comfort Inn",

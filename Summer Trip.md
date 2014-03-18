@@ -10,10 +10,10 @@ or equal to 48 hours to arrive in Houston.
 
 After driving for 5 hours, Junior said, “I’m hungry, can we get something to eat?” Dad responded, “Of course we can.” 
 
-Knowing what’s in the area of Virginia they’re in, the family tells Senior what they wants for lunch. The daughter and 
+Knowing what’s in the area of Virginia they’re in, the family tells Dad what they wants for lunch. The daughter and 
 son wanted Chick Fi La. Dad and Mom wants Panera Bread.  The daughter wants a chicken sandwich and lemonade. The son 
-wants chicken nuggets, french-fries, and a lemonade. Tinasha wants a chicken panini sandwich with a water, and an apple. 
-Senior wants a turkey panini sandwich with kettle chips and a water.  The children’s meals cost $6.25 each. 
+wants chicken nuggets, french-fries, and a lemonade. Mom wants a chicken panini sandwich with a water, and an apple. 
+Dad wants a turkey panini sandwich with kettle chips and a water.  The children’s meals cost $6.25 each. 
 The parent’s meals cost $8.00 each. 
 
 After getting their meals they got back on the road to Houston. 5 hours later in South Carolina, the family starts to 

@@ -22,6 +22,21 @@ var nonStop =  false
 
 
 //
+var lunch = function (name, eat, lunch) {
+    if ()
+    { 
+      
+    console.log.();
+    
+    } else
+    {
+     
+    console.log();
+      
+    }
+  };
+  lunch()
+  
 var goNow;
 
 for (goNow = 2; goNow >= 0; goNow-- )

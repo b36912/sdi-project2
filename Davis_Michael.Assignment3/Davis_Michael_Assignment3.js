@@ -7,6 +7,8 @@ Assignment 3
 */
 
 //Json = Trip data describes family members and hotels and their costs.
+
+ and hotels and their costs.
 var tripData  = ["familyMembers"];
 var hotelData = ["hotels"];
 
@@ -93,7 +95,8 @@ var nonStop  =  false;
 var lunch    =  ["memberLChoice", "memberLunch", "memberCost"];
 var sleep    =  ["hotel", "hotelCost"];
 var stopTrip =  true;
-var hotels   = [];
+var hotels   =  ["Comfort Inn", "Hilton Garden Inn", "Sheraton", "Embassy Suites" ];
+var hotelCosts = [128, 135, 140, 156, 140];
 
 
 
@@ -154,7 +157,7 @@ var lunchtime = function(arrArg){
 
             console.log("The family is eating");
 
-            
+
 
 alert("We've now been back on the road for 5 hours.");
 
@@ -182,5 +185,6 @@ for (var hotelData = 4; HotelData < hotelData.length; membhotelData ++ )
     };
 
             console.log("The family found a hotel called " + hotelCost[0] + "to stay in for the night");
+
 
 

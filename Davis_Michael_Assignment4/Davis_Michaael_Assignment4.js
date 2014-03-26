@@ -14,4 +14,3 @@ Strings
 
 //Phone Number
 
-var foneNum = 
